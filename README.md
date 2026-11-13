@@ -1,0 +1,1 @@
+# man10_resource_pack
